@@ -4,7 +4,7 @@
 <br>
 ⚙ Frameworks: `PlatformIO`, `Arduino`
 <br>
-📟 μ: `ESP32`, `Arduino`, `Raspberry Pi`
+📟 μC/P: `ESP32`, `Arduino`, `Raspberry Pi`
 <br>
 🧠 Interests: `Robotics`, `Embedded Systems`, `IoT`, `Machine Learning`
 
