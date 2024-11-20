@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7a7f0ee1-f089-4135-b374-74f6c3fff5c8)## Hi, I'm Victor! 🌱
+## Hi, I'm Victor! 🌱
 
 ![badge](https://img.shields.io/badge/Status-Active-brightgreen)
 
