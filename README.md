@@ -1,8 +1,6 @@
-## Hi, I'm Victor! 🌱
+![image](https://github.com/user-attachments/assets/7a7f0ee1-f089-4135-b374-74f6c3fff5c8)## Hi, I'm Victor! 🌱
 
-<!--
 ![badge](https://img.shields.io/badge/Status-Active-brightgreen)
-
 
 💻 Languages: `C`, `C++`, `Python`
 <br>
@@ -11,8 +9,8 @@
 📟 μC: `ESP32`, `Arduino`, `Raspberry Pi`
 <br>
 🧠 Interests: `Robotics`, `Embedded Systems`, `IoT`, `Machine Learning`
--->
 
+<!--
 Languages:
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
@@ -28,3 +26,4 @@ Frameworks:
 ![C++](https://img.shields.io/badge/RaspberryPi-%23A22846.svg?style=flat&logo=raspberrypi&logoColor=white)
 <br>
 🧠 Interests: `Robotics`, `Embedded Systems`, `IoT`, `Machine Learning`
+-->
