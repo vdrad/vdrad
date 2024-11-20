@@ -1,7 +1,5 @@
 ## Hi, I'm Victor! 🌱
 
-![badge](https://img.shields.io/badge/Status-Active-brightgreen)
-
 💻 Languages: `C`, `C++`, `Python`
 <br>
 ⚙ Frameworks: `PlatformIO`, `Arduino`
